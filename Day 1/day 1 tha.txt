@@ -1,0 +1,1 @@
+THA-Setuped Postgres and redis in my local.
