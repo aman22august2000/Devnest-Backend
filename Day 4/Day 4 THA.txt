@@ -1,0 +1,17 @@
+1. Read about 'how does internet works'.
+ 
+	-Reference- https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work & 
+	-Reference Video- https://www.youtube.com/watch?v=x3c1ih2NJEg&t=0s
+
+
+	
+2. Finding alternatives of REST API's. 
+	
+	Reference- https://leapgraph.com/rest-api-alternatives/
+	Reference Video- https://www.youtube.com/c/Telusko/playlists
+
+	-GraphQL APIs
+	-Falcor APIs
+	-gRPC APIs
+	-Pure JSON APIs
+	-OData APIs
